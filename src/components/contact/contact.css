@@ -1,0 +1,40 @@
+.contact{
+    height: 70vh;
+    background-color: white;
+    font-family: "Montserrat";
+}
+
+#title{
+    padding-top: 5%;
+}
+
+.line{
+    width: 300px;
+    max-width: 100%;
+    height: 2px;
+    margin-bottom: 75px;
+}
+
+.social-button{
+    background-color: transparent;
+    border: 1px solid red;
+    padding: 5px 5px 5px 5px;
+    border-radius: 0.5rem;
+    color: red;
+    
+    
+}
+
+.contact a{
+    margin: 0px 10px 0px 10px ;
+    color: red;
+}
+
+.contact a :hover{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    
+}
+
+

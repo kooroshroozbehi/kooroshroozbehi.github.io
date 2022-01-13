@@ -1,0 +1,104 @@
+.skills{
+    height: 180vh;
+    background-color: white;
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+#title{
+    padding-top: 5%;
+}
+
+#skills{
+    font-size: 40px;
+}
+
+.container-div{
+
+    height: 600px;
+}
+
+.table-container{
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.line{
+    width: 300px;
+    max-width: 100%;
+    height: 2px;
+    margin-bottom: 75px;
+}
+
+.title-line{
+    width: 80%;
+    max-width: 100%;
+    height: 2px;
+    margin: 5% 5% 5% 5%;
+}
+
+.skills-col{
+
+    height: 500px;
+}
+
+.skills-header-row{
+    justify-content: center;
+}
+
+.skills-col-col{
+    border:  0.5px solid rgb(214, 214, 214);
+    height: auto;
+    margin: 0 5% 5% 5%;
+    
+}
+
+.skills-row-row{
+    margin: 5% 5% 5% 5%;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    max-width: 50px;
+    max-height: 50px;  
+}
+
+.language-col{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -6%;
+    
+}
+
+@media only screen and (min-width: 300px) and (max-width: 812px){
+    .table-container{
+        justify-content: center;
+        margin-left: 10%;
+        margin-right: 10%;
+        
+    }
+
+    .skills-col{
+        
+        height: auto;
+        margin-top: 0%;
+        
+    }
+
+    .skills-col-col{
+        border:  0.5px solid rgb(191, 192, 192);
+        height: auto;
+        margin: 5% 5% 5% 5%;
+        
+    }
+
+    .language-col{
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: 0;
+        
+    }
+}

@@ -1,0 +1,95 @@
+ .projects{
+    height: 150vh;
+    background-color: rgb(235, 235, 235);
+    font-family: "Montserrat";
+}
+
+#title{
+    padding-top: 5%;
+}
+
+#my-projects{
+    font-size: 40px;
+}
+
+#container{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.project-row{
+    max-width: 70%;
+    margin: 0 auto;
+   
+
+}
+
+.project-item{
+
+    height: 500px;
+    background-color: white; 
+}
+
+.project-title{
+    font-size: 20px;
+    justify-content: center;
+}
+
+.project-thumbnail{
+    margin-left: 2%;
+    
+}
+
+.project-thumbnail img{
+
+    width: 400px;
+    max-width: 100%;
+    padding: 5px 5px 5px 5px;
+    margin:10px 5px 5px 5px;
+    height: 200px;
+    border-radius: 2rem;
+    
+}
+
+.project-col{
+
+    height: 380px;
+    background-color: rgb(235, 235, 235);
+    max-width: 100%;
+    padding: 5 5 5 5 !important;
+    margin: 5% 5% 5% 5%;
+    border-radius: 0.5rem;
+
+    
+}
+
+#calc-image{
+    height: 300px;
+    width: 200px;
+    
+}
+
+.image-row{
+    justify-content: center;
+}
+
+.button-row{
+    justify-content: center;
+}
+
+.project-button{
+    color: white;
+    background-color: #007bff;
+    border-color: white;
+    border: 1px;
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.25rem;
+    margin-top: 10px;
+}
+
+.projects a :hover{
+    background-color: #046ddd;
+    color: white;
+    text-decoration: none;
+}
