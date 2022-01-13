@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e4f5b2b.chunk.css",
+    "main.js": "/static/js/main.b6d9f645.chunk.js",
+    "main.js.map": "/static/js/main.b6d9f645.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4c22406.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4c22406.js.map",
+    "static/js/2.b4d65442.chunk.js": "/static/js/2.b4d65442.chunk.js",
+    "static/js/2.b4d65442.chunk.js.map": "/static/js/2.b4d65442.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e4f5b2b.chunk.css.map": "/static/css/main.8e4f5b2b.chunk.css.map",
+    "static/js/2.b4d65442.chunk.js.LICENSE.txt": "/static/js/2.b4d65442.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-logo.395a1289.jpg": "/static/media/bootstrap-logo.395a1289.jpg",
+    "static/media/c-logo.89217e81.png": "/static/media/c-logo.89217e81.png",
+    "static/media/calculator-app.c9089d62.png": "/static/media/calculator-app.c9089d62.png",
+    "static/media/css-logo.c1a4d72f.png": "/static/media/css-logo.c1a4d72f.png",
+    "static/media/git-logo.b7d106ff.jpg": "/static/media/git-logo.b7d106ff.jpg",
+    "static/media/gmail-logo.65c2a409.png": "/static/media/gmail-logo.65c2a409.png",
+    "static/media/java-icon.6e028431.jpg": "/static/media/java-icon.6e028431.jpg",
+    "static/media/javascript-logo.c7907985.png": "/static/media/javascript-logo.c7907985.png",
+    "static/media/junit-logo.b6ef4f56.jpg": "/static/media/junit-logo.b6ef4f56.jpg",
+    "static/media/linkedin-logo2.cdf054fa.jpg": "/static/media/linkedin-logo2.cdf054fa.jpg",
+    "static/media/nodejs-logo.4ffd30ab.png": "/static/media/nodejs-logo.4ffd30ab.png",
+    "static/media/pic1.46e0e136.jpg": "/static/media/pic1.46e0e136.jpg",
+    "static/media/pic12.5155f135.jpeg": "/static/media/pic12.5155f135.jpeg",
+    "static/media/pong-game.75065b67.png": "/static/media/pong-game.75065b67.png",
+    "static/media/react-logo.cc957dd5.jpg": "/static/media/react-logo.cc957dd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c22406.js",
+    "static/js/2.b4d65442.chunk.js",
+    "static/css/main.8e4f5b2b.chunk.css",
+    "static/js/main.b6d9f645.chunk.js"
+  ]
+}
