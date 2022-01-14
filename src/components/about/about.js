@@ -39,7 +39,7 @@ export const About = () => {
                         </Col>
                         <Col xs={12} md={4} className="about-col">
                             <Row className = "b">
-                                <Row className="a">Hi there! I'm Koorosh, a software engineer based in Toronto.</Row>
+                                <Row className="a">Hi there, I'm Koorosh, a software engineer based in Toronto.</Row>
 
                                 <Row className="a"><br></br>I enjoy building websites, softwares, apps, games and anything to do with coding.</Row>
                             </Row>
