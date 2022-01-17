@@ -25,7 +25,7 @@ function Skills() {
                 </div>
 
                 <Container className="container-div">
-                    <Row className="table-container">
+                    <Row className="table-container" >
                         <Col xs={12} md={6} className="skills-col">
                             <Row className="skills-row">
                                 <Col className="skills-col-col">

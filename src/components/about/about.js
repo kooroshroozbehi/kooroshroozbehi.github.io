@@ -2,7 +2,7 @@ import './about.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import myPic2 from './../../assets/pic1.jpg';
+import myPic2 from './../../assets/pic2.jpg';
 import linkedinLogo from './../../assets/linkedin-logo2.jpg';
 import gmailLogo from './../../assets/gmail-logo.png';
 import githubLogo from './../../assets/github-logo.png';
@@ -39,7 +39,7 @@ export const About = () => {
                         </Col>
                         <Col xs={12} md={4} className="about-col">
                             <Row className = "b">
-                                <Row className="a">Hi there, I'm Koorosh, a software engineer based in Toronto.</Row>
+                                <Row className="a">Hi there! I'm Koorosh, a software engineer based in Toronto.</Row>
 
                                 <Row className="a"><br></br>I enjoy building websites, softwares, apps, games and anything to do with coding.</Row>
                             </Row>

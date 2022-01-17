@@ -24,7 +24,7 @@ function Projects() {
                                 Pong Game
                             </Row>
                             <Row xs={12} md={6} className="project-thumbnail">
-                                <Col xs={10} md={10} className="project-col">
+                                <Col xs={10} md={10} className="project-col" id="test56">
                                     <Row className="image-row">
                                         <img id="pong-image" src={pongGame} alt="pongGame"></img>
                                     </Row>

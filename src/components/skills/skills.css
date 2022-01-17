@@ -1,5 +1,5 @@
 .skills{
-    height: 180vh;
+    height: auto;
     background-color: white;
     font-family: "Montserrat";
     text-align: center;
@@ -13,18 +13,17 @@
     font-size: 40px;
 }
 
-.container-div{
-
-    height: 600px;
-}
 
 .table-container{
     justify-content: center;
     margin-left: 15%;
     margin-right: 15%;
-    
+   
 }
 
+#abc{
+    
+}
 .line{
     width: 300px;
     max-width: 100%;
@@ -99,6 +98,19 @@
         margin-top: auto;
         margin-bottom: auto;
         margin-left: 0;
+        
+    }
+}
+
+@media only screen and (min-width: 800px){
+    .skills{
+        height: 80vh;
+        
+    }
+}
+@media only screen and (min-width: 1000px){
+    .skills{
+        height: 140vh;
         
     }
 }

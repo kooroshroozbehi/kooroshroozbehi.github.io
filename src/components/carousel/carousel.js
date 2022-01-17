@@ -1,5 +1,5 @@
 import './carousel.css';
-import pic from './../../assets/pic12.jpeg';
+import pic from './../../assets/pic4.jpeg';
 import { Parallax } from 'react-parallax';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
